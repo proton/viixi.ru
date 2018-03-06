@@ -1,0 +1,23 @@
+@font-face {
+	font-family: Katherine;
+	src: url(8582.ttf);
+}
+
+body {
+	padding: 20px 40px;
+	transition: background-color 0.4s ease;
+}
+
+
+.letter {
+	font-family: Katherine, cursive;
+	color: #5B3E21;
+  font-size: 30px;
+  background: url(img/letter.jpg);
+  width: 690px;
+  height: 750px;
+  padding: 10px 10px 10px 500px;
+  white-space: pre-wrap;
+  overflow: hidden;
+  border: 1px red solid;
+}
